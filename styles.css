@@ -1,0 +1,23 @@
+body{
+  font-family: Montserrat;
+  font-size: 12px;
+}
+.container{
+  width: 600px;
+  background-color: rgb(201, 201, 201);
+  padding: 25px;
+}
+.d{
+  display: flex;
+  gap: 30px;
+  border-bottom: 3px solid black;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+a{
+  width: 50%;
+}
+h4{
+  margin: 0;
+}
+
